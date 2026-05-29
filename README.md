@@ -26,5 +26,5 @@ A Python Tkinter-based Smart Campus Information System.
 ![Performance](scrrenshots/performance.png)
 
 ## Author
-Bhoomika S Shetty
+Bhoomika S Shetty,
 Bhoomika M
