@@ -15,6 +15,15 @@ A Python Tkinter-based Smart Campus Information System.
 - Python
 - Tkinter
 - Pillow
+## Screenshots
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+### Registration
+![Registration](screenshots/registration.png)
+### Student Records
+![Records](screenshots/records.png)
+### Performance Analysis
+![Performance](screenshots/performance.png)
 
 ## Author
 Bhoomika S Shetty
