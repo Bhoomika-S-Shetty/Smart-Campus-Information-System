@@ -1,0 +1,6 @@
+{'Name': 'Bhoomika', 'ID': 'CS055', 'Dept': 'CSE', 'Marks': 90, 'Attendance': 89.0}
+{'Name': 'Bhoomika', 'ID': 'CS055', 'Dept': 'CSE', 'Marks': 99, 'Attendance': 95.0}
+{'Name': 'John', 'ID': 'EE666', 'Dept': 'EEE', 'Marks': 89, 'Attendance': 67.0}
+{'Name': 'Riya', 'ID': 'CS344', 'Dept': 'CSE', 'Marks': 78, 'Attendance': 90.0}
+{'Name': 'Shreya', 'ID': 'CS566', 'Dept': 'CSE', 'Marks': 99, 'Attendance': 99.0}
+{'Name': 'Bhoomika', 'ID': 'CS055', 'Dept': 'CSE', 'Marks': 89, 'Attendance': 78.0}
